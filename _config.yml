@@ -1,17 +1,10 @@
-
-# Setup
-title:                <p style = "font-family:candara, arial,helvetica;"> Farhad Shirani<br>
-tagline:              <font color=#8E8E8C>Research Assistant Professor<br>
-                     fsc265@nyu.edu</font></p>
-description:         <img src="/public/favicon4-apple.png">
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
-paginate:            5
-
-# About/contact
-author:
-  name:             Farhad Shirani
-  email:            fsc265@nyu.edu
-
-# Custom vars
-version:             1.0.0
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "2; url = https://fshirani2006.github.io/" />
+   </head>
+   <body>
+      <p>Redirecting.</p>
+   </body>
+</html>
